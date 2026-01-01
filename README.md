@@ -1,10 +1,9 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
+    
       <!-- <img src="public/readme/hero.webp" alt="Project Banner"> -->
       <img width="1013" height="291" alt="image" src="https://github.com/user-attachments/assets/a09eded3-2835-4946-aa17-bf04351c422b" />
 
-    </a>
     
   <br />
 
