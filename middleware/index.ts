@@ -1,6 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
 import { connectToDatabase } from "@/database/mongoose";
 
+
+
+
 export async function middleware(request: NextRequest) {
     // Allow access to the error page and static assets
     if (request.nextUrl.pathname.startsWith('/mongodb-error') ||
